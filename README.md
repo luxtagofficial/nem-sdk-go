@@ -1,5 +1,5 @@
-# Nem-sdk-go 
-![N|Solid](https://github.com/isarq/nem-sdk-go/blob/master/assets/tipo.jpg)
+# Nem-sdk-go
+![N|Solid](https://github.com/luxtagofficial/nem-sdk-go/blob/master/assets/tipo.jpg)
 
 NEM Developer Kit for Golang based on https://github.com/QuantumMechanics/NEM-sdk
 
@@ -35,9 +35,9 @@ NEM Developer Kit for Golang based on https://github.com/QuantumMechanics/NEM-sd
   - Get the current last block of the chain.
   - Get information about the maximum number of allowed harvesters and
 	how many harvesters are already using the node.
-  - Gets the AccountMetaDataPair of the account for which the given 
+  - Gets the AccountMetaDataPair of the account for which the given
     account is the delegate account.
- 
+
 # types of transactions!
   - Simple transactions.
   - Mosaic transactions.
@@ -61,7 +61,7 @@ NEM Developer Kit for Golang based on https://github.com/QuantumMechanics/NEM-sd
 ### Installation
 
 ```sh
-$ go get -u github.com/isarq/nem-sdk-go
+$ go get -u github.com/luxtagofficial/nem-sdk-go
 ```
 
 ### Development

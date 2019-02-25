@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	. "github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/utils"
+	. "github.com/luxtagofficial/nem-sdk-go/base"
+	"github.com/luxtagofficial/nem-sdk-go/utils"
 )
 
 // BlockHeight contains a chain height

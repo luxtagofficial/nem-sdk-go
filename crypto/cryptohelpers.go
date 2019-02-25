@@ -3,7 +3,7 @@ package crypto
 import (
 	"errors"
 	nacl "github.com/ereyes01/cryptohelper"
-	"github.com/isarq/nem-sdk-go/utils"
+	"github.com/luxtagofficial/nem-sdk-go/utils"
 )
 
 // Encode a message

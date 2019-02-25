@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/isarq/nem-sdk-go/model"
+	"github.com/luxtagofficial/nem-sdk-go/model"
 )
 
 func main() {

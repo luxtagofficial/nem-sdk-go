@@ -4,10 +4,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/isarq/nem-sdk-go/base"
 	"io/ioutil"
 	"net/http"
 	"time"
+
+	"github.com/luxtagofficial/nem-sdk-go/base"
 )
 
 // AccountInfo describes basic information for an account.

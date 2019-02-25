@@ -1,8 +1,8 @@
 package objects
 
 import (
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/model/transactions"
+	"github.com/luxtagofficial/nem-sdk-go/base"
+	"github.com/luxtagofficial/nem-sdk-go/model/transactions"
 	"strings"
 )
 

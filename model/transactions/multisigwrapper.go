@@ -1,9 +1,9 @@
 package transactions
 
 import (
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/model"
-	"github.com/isarq/nem-sdk-go/utils"
+	"github.com/luxtagofficial/nem-sdk-go/base"
+	"github.com/luxtagofficial/nem-sdk-go/model"
+	"github.com/luxtagofficial/nem-sdk-go/utils"
 )
 
 // Wrap a transaction in a multisignature transaction

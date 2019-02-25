@@ -4,9 +4,9 @@ import (
 	"crypto/md5"
 	"crypto/sha1"
 	"crypto/sha256"
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/model"
-	"github.com/isarq/nem-sdk-go/utils"
+	"github.com/luxtagofficial/nem-sdk-go/base"
+	"github.com/luxtagofficial/nem-sdk-go/model"
+	"github.com/luxtagofficial/nem-sdk-go/utils"
 	"golang.org/x/crypto/sha3"
 	"strings"
 )

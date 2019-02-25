@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"fmt"
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/extras"
+	"github.com/luxtagofficial/nem-sdk-go/base"
+	"github.com/luxtagofficial/nem-sdk-go/extras"
 	"math"
 	"sort"
 )
